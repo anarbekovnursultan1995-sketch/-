@@ -1,0 +1,6 @@
+{
+  "name": "QazHistory Olympiad - Қазақстан тарихынан олимпиадаға дайындық",
+  "description": "9-10 сынып оқушыларына арналған Қазақстан тарихы республикалық олимпиадасына дайындық, тестілеу, тарихи эссе және мұғалімнің жеке кабинеті",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
